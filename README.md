@@ -1,4 +1,4 @@
-# <div style="color: red;">ALX - Binary Tree <br> Data Structures and Algorithm- Tree</div>
+<div style="color: red;font-family: 'Lobster', cursive;font-weight:bold;font-size:80px;">ALX - Binary Tree <br> Data Structures and Algorithm- Tree</div>
 
 ### What is a binary tree
 ### What is the difference between a binary tree and a Binary Search Tree
