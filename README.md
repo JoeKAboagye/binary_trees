@@ -1,4 +1,4 @@
-# <div>ALX - Binary Tree <br> Data Structures and Algorithm- Tree</div>
+# <div>ALX - Binary Tree <br> Data Structures and Algorithm - Tree</div>
 
 ### What is a binary tree
 ### What is the difference between a binary tree and a Binary Search Tree
